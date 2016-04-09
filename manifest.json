@@ -1,0 +1,19 @@
+{
+  "manifest_version":2,
+  "name":"Jisho-Search",
+  "description":"Let's you search your current selection in Jisho.",
+  "version":"1.0.0",
+  "author":"Severin Kaderli <severin.kaderli@gmail.com>",
+  "icons":{
+    "128":"./assets/icon_128.png"
+  },
+  "permissions":[
+    "activeTab",
+    "contextMenus"
+  ],
+  "background":{
+    "scripts":[
+      "./js/script.js"
+    ]
+  }
+}
