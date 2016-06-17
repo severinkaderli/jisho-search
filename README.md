@@ -1,2 +1,2 @@
 # jisho-search
-Small chrome-extension to search a selection on jisho.org
+A tiny Google Chrome Extension that allows you to search a selection on jisho.org.
