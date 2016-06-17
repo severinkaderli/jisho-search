@@ -1,7 +1,7 @@
 {
   "manifest_version":2,
   "name":"Jisho-Search",
-  "description":"Let's you search your current selection in Jisho.",
+  "description":"Allows you to search a selection on jisho.org.",
   "version":"1.0.0",
   "author":"Severin Kaderli <severin.kaderli@gmail.com>",
   "icons":{
